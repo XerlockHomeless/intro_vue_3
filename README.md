@@ -287,4 +287,3 @@ Ou assim:
 ![Code Challenge t6](img_readme/code_challenge_t6.png)
 
 
-
