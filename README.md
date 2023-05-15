@@ -157,4 +157,3 @@ const app = Vue.createApp({
 
 5.2 Mostre a ``description``usando uma expressão dentro de um elemento ``<p>``.
 
-
