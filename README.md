@@ -198,4 +198,3 @@ Observe a figura abaixo. Ela ilustra o que acabamos de fazer no Passo 4.1 acima.
 ![Code Challenge t5](img_readme/code_challenge_t5.png)
 
 
-
